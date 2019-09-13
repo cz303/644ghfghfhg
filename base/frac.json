@@ -1,0 +1,18 @@
+{
+	"im dead": {
+		"users": {
+			"1": {
+				"count": 3,
+				"level": 3
+			}
+		},
+		"balance": 49998,
+		"name": "im dead",
+		"bank": 15000,
+		"people": 1,
+		"counts": 0,
+		"war": false,
+		"exp": 3,
+		"owner": 232357251
+	}
+}
